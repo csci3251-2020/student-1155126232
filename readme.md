@@ -1,9 +1,10 @@
 # Self Introduction
-_Name:_Tsoi Chak Yu
+_Name:_ Tsoi Chak Yu
 
 __Education:__ CUHK
 
-[x] No experience in Github
+- [x] No experience in Github
+
 
 # Programming Language
 * C
